@@ -1,16 +1,12 @@
-# task_buddy
+# Task Buddy
 
-A new Flutter project.
+Simple Todo app using getx state management with get storage offline database.
 
-## Getting Started
+App Link: https://drive.google.com/file/d/1Oi9AWR0_qn-vVqw55JVOBqkrlnVuWj3c/view?usp=sharing
 
-This project is a starting point for a Flutter application.
+reference.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/user-attachments/assets/f16ddf19-5a35-4ec5-af8d-822ca69df057
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
